@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @edbosisto
-- 👀 I’m interested in programming, web design, and writing and recording music in my home studio.
+- 👀 I’m interested in programming, deep learning, web design, and writing and recording music in my home studio.
 - 🌱 I’m currently learning Python, HTML, CSS and Javascript to transition into a career in IT.
 - 📫 You can contact me through my work email address, edbosisto@gmail.com
